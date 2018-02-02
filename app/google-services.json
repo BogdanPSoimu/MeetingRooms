@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1084331807817",
+    "firebase_url": "https://meetingrooms-4ffb1.firebaseio.com",
+    "project_id": "meetingrooms-4ffb1",
+    "storage_bucket": "meetingrooms-4ffb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084331807817:android:99efa3434b17bc71",
+        "android_client_info": {
+          "package_name": "com.upb.meetingrooms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084331807817-vgkp9q0l5b1nnhr2hujb0irqm9c56gq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW5ZxwnluTS5RGE8x30D5NKlSo_Lnh0v0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
